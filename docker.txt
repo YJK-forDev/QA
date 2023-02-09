@@ -1,0 +1,4 @@
+QA: jellambda/nlpdryrun:version1
+QG(+QA): jellambda/nlpdryrun:version2  
+Final: jellambda/nlpdryrun:version3 
+Team CMUShadyside, SeohyeonLee(seohyeol), SojinKim(sojinkim), WoohyunChoi(woohyuc), YujinKim(yujinkim)
